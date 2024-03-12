@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-Project on higher programming
+First stage in higher programing language using Python programming at #ALX_SE
